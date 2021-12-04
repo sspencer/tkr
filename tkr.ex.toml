@@ -1,0 +1,5 @@
+# https://www.alphavantage.co/support/#api-key
+api_key    = "YOUR KEY"
+crypto     = ["BTC", "ETH", "DOGE"]
+stock_url  = "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={symbol}&apikey={api_key}"
+crypto_url = "https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency={symbol}&to_currency=USD&apikey={api_key}"
