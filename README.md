@@ -6,3 +6,8 @@ crypto symbols and stock symbols, add desired crypto symbols to the `crypto` arr
 
 Specify `-a` flag for integrating with [Alfred Workflow](https://www.alfredapp.com/workflows/).
 
+## Usage
+
+```
+tkr TSLA
+```
